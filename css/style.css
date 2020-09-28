@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: aqua;
+    text-align: center;
+    height: 100px;
+    
+}
+.article-section{
+    height: 600px;
+    background-color: blueviolet;
+    overflow: hidden;
+
+}
+.left{
+    text-align: center;
+    height: 600px;
+    width:20%;
+    background-color: crimson;
+    float: left;
+
+}
+.left{
+    padding-top: 300px;
+}
+.right{
+    height: 600px;
+    width: 80%;
+    background-color: coral;
+    float: right;
+
+}
+.content{
+    overflow: hidden;
+}
+.top{
+    text-align: center;
+    height: 200px;
+    background-color: darkgreen;
+}
+.top h2{
+    padding-top: 100px;
+}
+.middle{
+    text-align: center;
+    height: 200px;
+    background-color: violet;
+}
+.middle h2{
+    padding-top: 100px;
+}
+.bottom{
+    text-align: center;
+    height: 200px;
+    background-color: darkorange;
+}
+.bottom h2{
+    padding-top: 100px;
+
+}
+
+footer{
+    text-align: center;
+    height: 100px;
+    background-color: yellow;
+}
+footer h2{
+    padding-top: 50px;
+
+}
